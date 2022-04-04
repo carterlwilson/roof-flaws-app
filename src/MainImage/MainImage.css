@@ -1,0 +1,29 @@
+.image-container {
+    position: relative;
+}
+
+.App-logo {
+    height: 80vmin;
+    pointer-events: none;
+}
+
+.annotation-container {
+    position: absolute;
+    z-index: 1;
+}
+
+.annotation-inner-container {
+    position: relative;
+}
+
+.annotation-container {
+    position: absolute;
+    z-index: 1;
+}
+
+.annotation-index {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 30%;
+}
